@@ -10,10 +10,3 @@ body{
   border: blue 3px solid;
   border-radius: 10px;
 }
-
-#feedback{
-  background-color: yellow;
-  color: red;
-  font-size: 30px;
-  font-weight: bold;
-}

@@ -1,0 +1,57 @@
+body{
+  background-color: white;
+}
+
+.container{
+  width: 900px;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 20px;
+  border: black 3px solid;
+  border-radius: 10px;
+}
+
+#feedback{
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.information{
+  float:  right;
+  width: 140px;
+  height: 445px;
+  padding-right:150px;
+
+  border: black 3px solid;
+}
+
+.melding{
+  padding-left: 10px;
+}
+
+p.melding{
+  color: green;
+}
+
+#beschrijving{
+  width: 200%;
+}
+#location{
+  margin: 5px;
+  padding: 10px;
+  border: black 3px solid;
+}
+#myInput{
+  padding: 10px;
+}
+#wattext{
+  font-size: 20px;
+}
+.inputplaats{
+  border: black 3px solid;
+  padding: 20px;
+}
+li{
+  padding-left: 5px;
+}
